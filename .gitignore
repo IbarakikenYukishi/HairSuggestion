@@ -1,0 +1,8 @@
+.DS_Store
+cameraenv/
+save_images/
+images/
+taken/
+scripts/gen_data.py
+scripts/face.png
+models/
