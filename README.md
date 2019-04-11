@@ -1,0 +1,3 @@
+# HairSuggestion
+
+人の顔を読み取り、その顔に最も似合う髪型を提案するアプリケーションを作成しました。アルゴリズムには深層学習の一手法であるCNN(Convolutional Neural Network)を、実装にはpythonおよび深層学習フレームワークであるKerasを利用しました。
